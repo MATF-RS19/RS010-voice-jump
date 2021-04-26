@@ -3,9 +3,9 @@
 
 #include <QGraphicsTextItem>
 
-class Game_over:public QGraphicsTextItem{
+class Game_over : public QGraphicsTextItem {
 public:
-    Game_over(int score,int preso);
+    Game_over(int score, int preso);
 };
 
 #endif // GAME_OVER_H

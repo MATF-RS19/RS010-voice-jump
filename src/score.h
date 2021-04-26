@@ -3,9 +3,9 @@
 
 #include <QGraphicsTextItem>
 
-class Score: public QGraphicsTextItem{
+class Score : public QGraphicsTextItem {
 public:
-    Score(QGraphicsItem * parent=0);
+    Score(QGraphicsItem* parent = 0);
     void increaseScore();
     void increaseScoreFlowers();
     void decreaseScore();
@@ -14,6 +14,7 @@ public:
     void resetScore();
     int getScore();
     int getLives();
+
 private:
     int score;
     int scoreMult;

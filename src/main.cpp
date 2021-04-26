@@ -1,7 +1,7 @@
-#include <QtGui>
 #include <QApplication>
-#include <QGraphicsView>
 #include <QGraphicsScene>
+#include <QGraphicsView>
+#include <QtGui>
 
 #include "player.h"
 #include "recorder.h"
@@ -9,16 +9,14 @@
 
 #define VIEW_WIDTH 1000
 
-Recorder *recorder;
-Score *score;
+Recorder* recorder;
+Score* score;
 
-
-
-int main(int argc, char *argv[])
+int main(int argc, char* argv[])
 {
     QApplication app(argc, argv);
 
-    qsrand(QTime(0,0,0).secsTo(QTime::currentTime()));
+    qsrand(QTime(0, 0, 0).secsTo(QTime::currentTime()));
 
     //  inicijalizuje se scena
     QGraphicsScene scene;
@@ -31,7 +29,7 @@ int main(int argc, char *argv[])
     QGraphicsView view(&scene);
     view.scale(1, -1);
 
-    Player *player = new Player(&view, &scene);
+    Player* player = new Player(&view, &scene);
 
     recorder = new Recorder(&scene, &scene);
 
@@ -53,8 +51,8 @@ int main(int argc, char *argv[])
     score->setPos(-50, 400);
     scene.addItem(score);
 
-    view.setHorizontalScrollBarPolicy ( Qt::ScrollBarAlwaysOff );
-    view.setVerticalScrollBarPolicy( Qt::ScrollBarAlwaysOff );
+    view.setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff);
+    view.setVerticalScrollBarPolicy(Qt::ScrollBarAlwaysOff);
     view.show();
 
     return app.exec();
