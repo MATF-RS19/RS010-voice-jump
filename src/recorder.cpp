@@ -5,7 +5,7 @@ Recorder::Recorder(QObject* parent = nullptr, QGraphicsScene* scene = nullptr)
     , m_scene(scene)
 {
     recorder = new QAudioRecorder();
-    QAudioProbe* probe = new QAudioProbe;
+    auto probe = new QAudioProbe;
 
     QAudioEncoderSettings audioSettings;
     //    u slucaju da mikrofon ne prepoznaje zakomentarisati liniju ispod

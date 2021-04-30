@@ -154,7 +154,7 @@ void Player::drawObsticles(int count)
 
     int num_of_obsticles = 3;
     for (int i = 1; i <= num_of_obsticles; i++) {
-        Obstacle* o = new Obstacle(count * VIEW_WIDTH + i * 100 + i * 400 / (num_of_obsticles - 1), 0);
+        auto o = new Obstacle(count * VIEW_WIDTH + i * 100 + i * 400 / (num_of_obsticles - 1), 0);
         qDebug() << " POZ:" << count * VIEW_WIDTH + i * 100 + i * 400 / (num_of_obsticles - 1);
         m_scene->addItem(o);
     }
@@ -171,7 +171,7 @@ void Player::drawFlowers(int count)
         if (size_y < 150) {
             size_y = 150;
         }
-        Flower* flower = new Flower(count * VIEW_WIDTH + i * 100 + i * 400 / (num_of_obsticles - 1), size_y + rand() % 200);
+        auto flower = new Flower(count * VIEW_WIDTH + i * 100 + i * 400 / (num_of_obsticles - 1), size_y + rand() % 200);
         qDebug() << " POZ:" << count * VIEW_WIDTH + i * 100 + i * 400 / (num_of_obsticles - 1);
         m_scene->addItem(flower);
     }

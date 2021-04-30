@@ -23,13 +23,13 @@ int main(int argc, char* argv[])
     scene.setSceneRect(-2100, -180, 5000, 700);
 
     // seed for random;
-    srand(time(NULL));
+    srand(time(nullptr));
 
     //  kreira se pogled za scenu
     QGraphicsView view(&scene);
     view.scale(1, -1);
 
-    Player* player = new Player(&view, &scene);
+    auto player = new Player(&view, &scene);
 
     recorder = new Recorder(&scene, &scene);
 

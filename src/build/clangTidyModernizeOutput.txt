@@ -1,0 +1,41 @@
+/usr/lib/gcc/x86_64-linux-gnu/7.1.0/../../../../include/c++/7.1.0/cstddef:50:10: error: 'stddef.h' file not found [clang-diagnostic-error]
+#include <stddef.h>
+         ^
+/usr/lib/gcc/x86_64-linux-gnu/7.1.0/../../../../include/c++/7.1.0/cstddef:50:10: error: 'stddef.h' file not found [clang-diagnostic-error]
+#include <stddef.h>
+         ^
+/home/tiksi/Desktop/RS010-voice-jump/src/main.cpp:26:16: warning: use nullptr [modernize-use-nullptr]
+    srand(time(NULL));
+               ^
+               nullptr
+/home/tiksi/Desktop/RS010-voice-jump/src/main.cpp:32:5: warning: use auto when initializing with new to avoid duplicating the type name [modernize-use-auto]
+    Player* player = new Player(&view, &scene);
+    ^
+    auto 
+/usr/lib/gcc/x86_64-linux-gnu/7.1.0/../../../../include/c++/7.1.0/cstddef:50:10: error: 'stddef.h' file not found [clang-diagnostic-error]
+#include <stddef.h>
+         ^
+/usr/lib/gcc/x86_64-linux-gnu/7.1.0/../../../../include/c++/7.1.0/cstddef:50:10: error: 'stddef.h' file not found [clang-diagnostic-error]
+#include <stddef.h>
+         ^
+/home/tiksi/Desktop/RS010-voice-jump/src/player.cpp:157:9: warning: use auto when initializing with new to avoid duplicating the type name [modernize-use-auto]
+        Obstacle* o = new Obstacle(count * VIEW_WIDTH + i * 100 + i * 400 / (num_of_obsticles - 1), 0);
+        ^
+        auto 
+/home/tiksi/Desktop/RS010-voice-jump/src/player.cpp:174:9: warning: use auto when initializing with new to avoid duplicating the type name [modernize-use-auto]
+        Flower* flower = new Flower(count * VIEW_WIDTH + i * 100 + i * 400 / (num_of_obsticles - 1), size_y + rand() % 200);
+        ^
+        auto 
+/usr/lib/gcc/x86_64-linux-gnu/7.1.0/../../../../include/c++/7.1.0/cstddef:50:10: error: 'stddef.h' file not found [clang-diagnostic-error]
+#include <stddef.h>
+         ^
+/home/tiksi/Desktop/RS010-voice-jump/src/recorder.cpp:8:5: warning: use auto when initializing with new to avoid duplicating the type name [modernize-use-auto]
+    QAudioProbe* probe = new QAudioProbe;
+    ^
+    auto 
+/usr/lib/gcc/x86_64-linux-gnu/7.1.0/../../../../include/c++/7.1.0/cstddef:50:10: error: 'stddef.h' file not found [clang-diagnostic-error]
+#include <stddef.h>
+         ^
+/usr/lib/gcc/x86_64-linux-gnu/7.1.0/../../../../include/c++/7.1.0/cstddef:50:10: error: 'stddef.h' file not found [clang-diagnostic-error]
+#include <stddef.h>
+         ^

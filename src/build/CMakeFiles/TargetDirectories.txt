@@ -1,0 +1,4 @@
+/home/tiksi/Desktop/RS010-voice-jump/src/build/CMakeFiles/edit_cache.dir
+/home/tiksi/Desktop/RS010-voice-jump/src/build/CMakeFiles/voice_jump.dir
+/home/tiksi/Desktop/RS010-voice-jump/src/build/CMakeFiles/rebuild_cache.dir
+/home/tiksi/Desktop/RS010-voice-jump/src/build/CMakeFiles/voice_jump_automoc.dir

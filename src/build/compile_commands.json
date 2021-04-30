@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/tiksi/Desktop/RS010-voice-jump/src/build",
+  "command": "/usr/bin/c++   -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIAWIDGETS_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/tiksi/Desktop/RS010-voice-jump/src/build -I/home/tiksi/Desktop/RS010-voice-jump/src -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++-64 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimedia -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimediaWidgets    -fPIC -std=gnu++11 -o CMakeFiles/voice_jump.dir/main.cpp.o -c /home/tiksi/Desktop/RS010-voice-jump/src/main.cpp",
+  "file": "/home/tiksi/Desktop/RS010-voice-jump/src/main.cpp"
+},
+{
+  "directory": "/home/tiksi/Desktop/RS010-voice-jump/src/build",
+  "command": "/usr/bin/c++   -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIAWIDGETS_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/tiksi/Desktop/RS010-voice-jump/src/build -I/home/tiksi/Desktop/RS010-voice-jump/src -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++-64 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimedia -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimediaWidgets    -fPIC -std=gnu++11 -o CMakeFiles/voice_jump.dir/player.cpp.o -c /home/tiksi/Desktop/RS010-voice-jump/src/player.cpp",
+  "file": "/home/tiksi/Desktop/RS010-voice-jump/src/player.cpp"
+},
+{
+  "directory": "/home/tiksi/Desktop/RS010-voice-jump/src/build",
+  "command": "/usr/bin/c++   -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIAWIDGETS_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/tiksi/Desktop/RS010-voice-jump/src/build -I/home/tiksi/Desktop/RS010-voice-jump/src -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++-64 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimedia -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimediaWidgets    -fPIC -std=gnu++11 -o CMakeFiles/voice_jump.dir/recorder.cpp.o -c /home/tiksi/Desktop/RS010-voice-jump/src/recorder.cpp",
+  "file": "/home/tiksi/Desktop/RS010-voice-jump/src/recorder.cpp"
+},
+{
+  "directory": "/home/tiksi/Desktop/RS010-voice-jump/src/build",
+  "command": "/usr/bin/c++   -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIAWIDGETS_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/tiksi/Desktop/RS010-voice-jump/src/build -I/home/tiksi/Desktop/RS010-voice-jump/src -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++-64 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimedia -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimediaWidgets    -fPIC -std=gnu++11 -o CMakeFiles/voice_jump.dir/obstacle.cpp.o -c /home/tiksi/Desktop/RS010-voice-jump/src/obstacle.cpp",
+  "file": "/home/tiksi/Desktop/RS010-voice-jump/src/obstacle.cpp"
+},
+{
+  "directory": "/home/tiksi/Desktop/RS010-voice-jump/src/build",
+  "command": "/usr/bin/c++   -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIAWIDGETS_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/tiksi/Desktop/RS010-voice-jump/src/build -I/home/tiksi/Desktop/RS010-voice-jump/src -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++-64 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimedia -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimediaWidgets    -fPIC -std=gnu++11 -o CMakeFiles/voice_jump.dir/score.cpp.o -c /home/tiksi/Desktop/RS010-voice-jump/src/score.cpp",
+  "file": "/home/tiksi/Desktop/RS010-voice-jump/src/score.cpp"
+},
+{
+  "directory": "/home/tiksi/Desktop/RS010-voice-jump/src/build",
+  "command": "/usr/bin/c++   -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIAWIDGETS_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/tiksi/Desktop/RS010-voice-jump/src/build -I/home/tiksi/Desktop/RS010-voice-jump/src -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++-64 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimedia -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimediaWidgets    -fPIC -std=gnu++11 -o CMakeFiles/voice_jump.dir/game_over.cpp.o -c /home/tiksi/Desktop/RS010-voice-jump/src/game_over.cpp",
+  "file": "/home/tiksi/Desktop/RS010-voice-jump/src/game_over.cpp"
+},
+{
+  "directory": "/home/tiksi/Desktop/RS010-voice-jump/src/build",
+  "command": "/usr/bin/c++   -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIAWIDGETS_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/tiksi/Desktop/RS010-voice-jump/src/build -I/home/tiksi/Desktop/RS010-voice-jump/src -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++-64 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimedia -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimediaWidgets    -fPIC -std=gnu++11 -o CMakeFiles/voice_jump.dir/flower.cpp.o -c /home/tiksi/Desktop/RS010-voice-jump/src/flower.cpp",
+  "file": "/home/tiksi/Desktop/RS010-voice-jump/src/flower.cpp"
+},
+{
+  "directory": "/home/tiksi/Desktop/RS010-voice-jump/src/build",
+  "command": "/usr/bin/c++   -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIAWIDGETS_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/tiksi/Desktop/RS010-voice-jump/src/build -I/home/tiksi/Desktop/RS010-voice-jump/src -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++-64 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimedia -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimediaWidgets    -fPIC -std=gnu++11 -o CMakeFiles/voice_jump.dir/voice_jump_automoc.cpp.o -c /home/tiksi/Desktop/RS010-voice-jump/src/build/voice_jump_automoc.cpp",
+  "file": "/home/tiksi/Desktop/RS010-voice-jump/src/build/voice_jump_automoc.cpp"
+},
+{
+  "directory": "/home/tiksi/Desktop/RS010-voice-jump/src/build",
+  "command": "/usr/bin/c++   -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIAWIDGETS_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/tiksi/Desktop/RS010-voice-jump/src/build -I/home/tiksi/Desktop/RS010-voice-jump/src -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++-64 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimedia -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtMultimediaWidgets    -fPIC -std=gnu++11 -o CMakeFiles/voice_jump.dir/CMakeFiles/voice_jump.dir/qrc_resources.cpp.o -c /home/tiksi/Desktop/RS010-voice-jump/src/build/CMakeFiles/voice_jump.dir/qrc_resources.cpp",
+  "file": "/home/tiksi/Desktop/RS010-voice-jump/src/build/CMakeFiles/voice_jump.dir/qrc_resources.cpp"
+}
+]
